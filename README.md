@@ -9,7 +9,7 @@
     <li>I am just trying to impart my knowledge via repositories which will be quite helpful for those who code in python.</li>
 </ul>
 <br>
-<h4>Thanks for visiting my profile.</h4>
+<h4>Thank you for visiting my profile.</h4>
 
 <!---
 Siwach-Git/Siwach-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
